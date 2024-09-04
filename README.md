@@ -47,3 +47,52 @@ The goal of this project is to showcase skills in Android development, including
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/psbrar2002/FetchRewardsCodingExercise.git
+2. Open the Project: Launch Android Studio and open the project from the cloned repository.
+
+3. Build the Project: Allow Gradle to sync and build the project.
+
+4. Run the App: Use an emulator or a physical Android device to run the app.
+
+## Usage
+Launch the app on your Android device or emulator.
+Click on the "Expand" button to display the list of items.
+View items grouped by listId, with headers showing the count of items in each group.
+Each item displays its id, listId, and name.
+
+## Project Structure
+```plaintext
+FetchRewardsCodingExercise/
+├── app/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/com/example/fetchrewardscodingexercise/
+│   │   │   │   ├── MainActivity.kt
+│   │   │   │   ├── ApiService.kt
+│   │   │   │   ├── RetrofitClient.kt
+│   │   │   │   ├── ListItem.kt
+│   │   │   │   ├── Item.kt
+│   │   │   │   ├── ItemAdapter.kt
+│   │   ├── res/
+│   │   │   ├── layout/
+│   │   │   │   ├── activity_main.xml
+│   │   │   │   ├── category_header_layout.xml
+│   │   │   │   ├── item_layout.xml
+│   │   │   ├── drawable/
+│   │   │   │   ├── fetch.png
+│   │   │   ├── values/
+│   │   │   │   ├── strings.xml
+│   │   │   │   ├── colors.xml
+│   │   │   │   ├── themes.xml
+├── README.md
+```
+## API Details
+- Base URL: https://fetch-hiring.s3.amazonaws.com/
+- Endpoint: /hiring.json
+- Method: GET
+- Response: List of items with fields id, listId, and name.
+
+## Screenshots
+Here's a visual representation of the application:
+![Animation4](https://github.com/user-attachments/assets/49df4023-6a7e-4e88-982e-44d2b2d993b7)
+
+
