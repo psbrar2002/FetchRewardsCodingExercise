@@ -1,6 +1,6 @@
 # Fetch Rewards Coding Exercise
 
-![Fetch Rewards Logo](./path/to/logo.png) <!-- Replace with the actual path to the logo -->
+![Fetch Rewards Logo](app/src/main/res/drawable/fetch.png) 
 
 This is a coding exercise project developed for Fetch Rewards. The application retrieves and displays a list of items from a remote JSON source, grouped by `listId`, and sorts them based on the requirements.
 
