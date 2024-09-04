@@ -47,11 +47,11 @@ The goal of this project is to showcase skills in Android development, including
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/psbrar2002/FetchRewardsCodingExercise.git
-2. Open the Project: Launch Android Studio and open the project from the cloned repository.
+2. **Open the Project**: Launch Android Studio and open the project from the cloned repository.
 
-3. Build the Project: Allow Gradle to sync and build the project.
+3. **Build the Project**: Allow Gradle to sync and build the project.
 
-4. Run the App: Use an emulator or a physical Android device to run the app.
+4. **Run the App**: Use an emulator or a physical Android device to run the app.
 
 ## Usage
 - Launch the app on your Android device or emulator.
