@@ -13,7 +13,7 @@ This is a coding exercise project developed for Fetch Rewards. The application r
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [API Details](#api-details)
-- [Screenshots](#screenshots)
+- [Demo](#demo)
 
 
 ## Overview
@@ -91,7 +91,7 @@ FetchRewardsCodingExercise/
 - Method: GET
 - Response: List of items with fields id, listId, and name.
 
-## Screenshots
+## Demo
 - Here's a visual representation of the application:
   
 ![Animation5](https://github.com/user-attachments/assets/afef38e7-1d3d-414c-929a-5e39c6f6d416)
