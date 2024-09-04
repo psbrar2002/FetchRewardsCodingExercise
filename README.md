@@ -54,10 +54,10 @@ The goal of this project is to showcase skills in Android development, including
 4. Run the App: Use an emulator or a physical Android device to run the app.
 
 ## Usage
-Launch the app on your Android device or emulator.
-Click on the "Expand" button to display the list of items.
-View items grouped by listId, with headers showing the count of items in each group.
-Each item displays its id, listId, and name.
+- Launch the app on your Android device or emulator.
+- Click on the "Expand" button to display the list of items.
+- View items grouped by listId, with headers showing the count of items in each group.
+- Each item displays its id, listId, and name.
 
 ## Project Structure
 ```plaintext
@@ -92,7 +92,7 @@ FetchRewardsCodingExercise/
 - Response: List of items with fields id, listId, and name.
 
 ## Screenshots
-Here's a visual representation of the application:
+- Here's a visual representation of the application:
 ![Animation4](https://github.com/user-attachments/assets/49df4023-6a7e-4e88-982e-44d2b2d993b7)
 
 
