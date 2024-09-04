@@ -47,4 +47,4 @@ The goal of this project is to showcase skills in Android development, including
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/fetch-rewards-coding-exercise.git
+   git clone https://github.com/psbrar2002/FetchRewardsCodingExercise.git
