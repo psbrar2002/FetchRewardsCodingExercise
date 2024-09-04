@@ -14,8 +14,7 @@ This is a coding exercise project developed for Fetch Rewards. The application r
 - [Project Structure](#project-structure)
 - [API Details](#api-details)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
