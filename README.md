@@ -93,6 +93,8 @@ FetchRewardsCodingExercise/
 
 ## Screenshots
 - Here's a visual representation of the application:
-![Animation4](https://github.com/user-attachments/assets/49df4023-6a7e-4e88-982e-44d2b2d993b7)
+  
+![Animation5](https://github.com/user-attachments/assets/afef38e7-1d3d-414c-929a-5e39c6f6d416)
+
 
 
